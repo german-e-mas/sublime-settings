@@ -1,6 +1,11 @@
-# Ignore everything.
+# Ignore.
 *
 
 # Exceptions.
 !.gitignore
 !Preferences.sublime-settings
+!C.sublime-settings
+!C++.sublime-settings
+!Matlab.sublime-settings
+!README.md
+!Default (Linux).sublime-keymap
