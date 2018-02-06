@@ -6,7 +6,7 @@ Personal [Sublime Text 3](https://www.sublimetext.com/) settings.
 
 ## Sublime
 
-Install from the [Sublime Text website](https://www.sublimetext.com/).
+Install from the [Sublime Text 3](https://www.sublimetext.com/) website.
 
 ## Package Control
 
