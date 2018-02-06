@@ -10,7 +10,7 @@ Install from the [Sublime Text 3](https://www.sublimetext.com/) website.
 
 ## Package Control
 
-Install from [Package Control website](https://packagecontrol.io/).
+Install from [Package Control](https://packagecontrol.io/) website.
 
 ## Install packages
 
