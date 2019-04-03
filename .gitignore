@@ -4,6 +4,7 @@
 # Exceptions.
 !.gitignore
 !Preferences.sublime-settings
+!Package Control.sublime-settings
 !C.sublime-settings
 !C++.sublime-settings
 !Matlab.sublime-settings
