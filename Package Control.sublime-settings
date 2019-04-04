@@ -5,7 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
+		"Color Highlighter",
+		"FileIcons",
 		"MarkdownPreview",
-		"Package Control"
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"TypeScript",
+		"VCS Gutter"
 	]
 }
